@@ -1,0 +1,24 @@
+body {background:fuchsia;}
+.container{width:310px;
+height:200px;
+margin:5%;
+background:purpel;}
+.tubuh {width:310px;
+height:3000px;
+background:white;}
+h4{margin-left:40%;}
+
+.t1,.t2,.t3,.t4,.t5,.t6,.t7,.8,.t9,.t10,.t11,.t12,.t13,.t14,.t15,.t16,.t17,.t18,.t19,.t20,.t21{
+width:10%;
+height:10%;
+background:black;
+margin: ;
+}
+.f1,.f2,.f3,.f4,.f5,.f6,.f7,.f8,.f9,.f10,.f11,.f12,.f13,.f14,.f15,.f16,.f17,.f17,.f18,.f19,.f20,.f21,.f22,.f23,.f24{
+width:48%;
+float:left;
+margin:2px;
+border-radius:30%;
+border:1px solid black;
+}
+
